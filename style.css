@@ -2,6 +2,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     padding: 50px 20px;
+    margin: 0;
     transition: background-color 0.3s ease;
 }
 
@@ -12,10 +13,19 @@ body {
     width: 25%;
     margin: auto;
     background-color: white;
+    padding: 30px 20px;
+    max-width: 400px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.9);
 }
 
 h1 {
-    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 15px;
+    color: cornflowerblue;
+    margin: 15px 0;
 }
 
 button {
@@ -27,9 +37,29 @@ button {
     background-color: crimson;
     color: white;
     cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-p {
-    font-size: 15px;
-    color: cornflowerblue;
+button:hover {
+    background-color: rgb(73, 141, 171);
+}
+
+@media (max-width: 695px) {
+    .container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 1.2rem;
+    }
+
+    button {
+        font-size: 0.9rem;
+        padding: 8px 20px;
+    }
+
+    p {
+        font-size: 0.9rem;
+    }
 }
