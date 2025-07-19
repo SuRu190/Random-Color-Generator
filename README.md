@@ -39,4 +39,3 @@ This is a simple and fun web project that changes the page's background colour e
 
 - Add a copy button to copy the color code
 - Include multiple color modes (e.g., light, dark, pastel)
-- Add animation for background transitions
