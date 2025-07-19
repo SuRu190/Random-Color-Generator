@@ -1,29 +1,32 @@
-# Background Color Changer 🎨
+# 🎨 BG Color Changer
 
-This is a simple beginner-level JavaScript project that changes the background color of the webpage to a random color each time the button is clicked.
+This is a beginner-friendly JavaScript project that changes the webpage's background colour when a button is clicked. It's a simple yet fun way to understand DOM manipulation and event handling in JavaScript.
 
-## 🔧 Tech Used
-- HTML
-- CSS
-- JavaScript (DOM + Events)
+---
 
-## 🚀 How It Works
-- A button is placed on the page.
-- When the user clicks the button, a random color is generated using JavaScript.
-- The background of the webpage updates with the new color.
-- The hex code of the current background is also shown on the page.
+## 🔗 Live Demo
 
-## 🌐 Live Demo
-[Click here to see the live project](https://SuRu190.github.io/bg-color-changer/)
+[👉 Click here to view live](https://suru190.github.io/bg-color-changer/)
 
-## 📚 Learning Purpose
-This project helped me practice:
-- JavaScript DOM selection
-- Event listeners
-- Random number generation
-- Basic styling with CSS
+---
 
-## 🔜 Future Improvements (optional ideas)
-- Add a "Copy Color Code" button
-- Show color history
-- Add animations or transitions
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+
+<img src="./assets/desktop-view.png" alt="Desktop View" width="600"/>
+
+### 📱 Mobile View
+
+<img src="./assets/mobile-view.jpeg" alt="Mobile View" width="300"/>
+
+---
+
+## 💡 Features
+
+- Random background color generator
+- Displays the current hex color code
+- Smooth color transition
+- Responsive design (mobile + desktop)
+
+---
