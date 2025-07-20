@@ -4,7 +4,7 @@ This is a simple and fun web project that changes the page's background colour e
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live site](https://suru190.github.io/bg-color-changer/)
+🔗 [Click here to view the live site](https://suru190.github.io/BG-Color-Changer/)
 
 ## 📸 Screenshots
 
