@@ -1,6 +1,6 @@
 # 🎨 Background Color Changer
 
-This is a simple and fun web project that changes the page's background colour every time you click a button. It's a beginner-friendly project created to practice basic JavaScript DOM manipulation and event handling.
+This is a simple and fun web project that changes the webpage background colour every time you click a button. It's a beginner-friendly project created to practice basic JavaScript DOM manipulation and event handling.
 
 ## 🚀 Live Demo
 
