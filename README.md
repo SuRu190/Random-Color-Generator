@@ -47,7 +47,6 @@ A simple and interactive web application that generates random colors, displays 
 
 ## 📂 Project Structure
 ```bash
-|
 │── index.html
 │── style.css
 │── script.js
