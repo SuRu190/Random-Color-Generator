@@ -1,41 +1,55 @@
-# 🎨 Background Color Changer
+# 🎨 Random Color Generator
 
-This is a simple and fun web project that changes the webpage background colour every time you click a button. It's a beginner-friendly project created to practice basic JavaScript DOM manipulation and event handling.
+## 📌 Description
+A simple and interactive web application that generates random colors, displays them in both **HEX** and **RGB** formats, lets you **copy color codes**, and has a **dark mode toggle**. The app is fully responsive and works on all screen sizes.
+
+---
 
 ## 🚀 Live Demo
+[View Live Project](https://suru190.github.io/Random-Color-Generator/)
 
-🔗 [Click here to view the live site](https://suru190.github.io/BG-Color-Changer/)
+---
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop View
-![Desktop View](./desktop-view.png)
+### 💻 Desktop View
+![App Screenshot](desktop-view.png)
 
 ### 📱 Mobile View
-![Mobile View](./mobile-view.jpg)
+![Mobile View](./mobile-view.png)
 
-## 🛠️ Features
+---
 
-- Random background color change
-- Smooth transition effect
-- Displays the current color code
-- Responsive design for mobile and desktop
+## ✅ Features
+- Generate random colors with one click.
+- Display **HEX** and **RGB** color codes.
+- Copy HEX or RGB code to the clipboard.
+- Dark mode toggle for better user experience.
+- Fully responsive design.
 
-## 🧑‍💻 Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)**
 
-## ✅ What I Learned
+---
 
-- DOM selection with `getElementById`
-- Generating random colors using `Math.random`
-- Adding event listeners in JavaScript
-- Applying styles dynamically with `style` property
-- Making a simple layout responsive with media-friendly CSS
+## 📚 What I Learned
+- How to generate random HEX and RGB values using JavaScript.
+- How to manipulate DOM elements dynamically.
+- Clipboard API usage (`navigator.clipboard.writeText()`).
+- How to implement dark mode using `classList.toggle()`.
+- Responsive design techniques using media queries.
 
-## 🔮 Future Improvements
+---
 
-- Add a copy button to copy the color code
-- Include multiple color modes (e.g., light, dark, pastel)
+## 📂 Project Structure
+```bash
+|
+│── index.html
+│── style.css
+│── script.js
+│── desktop-view.png
+└── README.md
