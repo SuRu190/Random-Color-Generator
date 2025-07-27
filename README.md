@@ -45,10 +45,13 @@ A simple and interactive web application that generates random colors, displays 
 
 ---
 
-## 📂 Project Structure
-```bash
+### 📂 Project Structure  
+
+```
+Random-Color-Generator/
 │── index.html
 │── style.css
 │── script.js
 │── desktop-view.png
 └── README.md
+```
