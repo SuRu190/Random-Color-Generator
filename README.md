@@ -1,9 +1,7 @@
 
 ---
 
-## **Random Color Generator – README.md**
-```markdown
-# 🎨 Random Color Generator
+# **🎨 Random Color Generator – README.md**
 
 An interactive web application that generates random colors, displays them in **HEX** and **RGB** formats, and allows you to copy them.  
 Includes a dark mode toggle and works seamlessly on all devices.
