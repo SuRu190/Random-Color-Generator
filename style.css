@@ -102,7 +102,7 @@ button:hover {
   }
 
   .buttons {
-    grid-template-columns: 1fr; /* stack buttons vertically */
+    grid-template-columns: 1fr;
   }
 
   button {
