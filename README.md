@@ -8,7 +8,9 @@ Includes a dark mode toggle and works seamlessly on all devices.
 
 ---
 
-![Preview Screenshot](desktop-view.png)
+![Desktop Screenshot](desktop-view.png)
+
+![Mobile Screenshot](mobile-view.png)
 
 ---
 
